@@ -9,6 +9,7 @@ Includes data preprocessing, LSTM-based forecasting, random-forest baselines, is
 - `notebooks/energy_analysis.ipynb` — exploratory analysis & model walkthrough.
 
 
+## Energy Consumption Monitor — Forecasting + Anomaly Detection (Interactive Dashboard)
 
 <img width="1454" height="911" alt="image" src="https://github.com/user-attachments/assets/33054ab7-741e-44f8-a3e2-635e933ea638" />
 
