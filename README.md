@@ -13,6 +13,9 @@ Includes data preprocessing, LSTM-based forecasting, random-forest baselines, is
 
 <img width="1454" height="911" alt="image" src="https://github.com/user-attachments/assets/33054ab7-741e-44f8-a3e2-635e933ea638" />
 
+##Displays predicted energy usage for the next 24 hours with actionable recommendations.
+
+<img width="1454" height="911" alt="image" src="https://github.com/user-attachments/assets/f36c15f4-c8b4-4718-886f-e68dbd476c9d" />
 
 
 
