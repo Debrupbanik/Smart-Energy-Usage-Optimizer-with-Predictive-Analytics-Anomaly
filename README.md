@@ -11,13 +11,7 @@ Includes data preprocessing, LSTM-based forecasting, random-forest baselines, is
 
 
 <img width="1454" height="911" alt="image" src="https://github.com/user-attachments/assets/33054ab7-741e-44f8-a3e2-635e933ea638" />
-## Quick start (local)
-1. Create virtual env:
-```bash
-python -m venv .venv
-source .venv/bin/activate   # mac/linux
-.venv\Scripts\activate      # windows
-pip install -r requirements.txt  
+
 
 
 
