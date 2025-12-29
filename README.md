@@ -6,7 +6,7 @@ Includes data preprocessing, LSTM-based forecasting, random-forest baselines, is
 - `data/energy_data.csv` — sample dataset (uploaded).
 - `models/` — pretrained artifacts: `iso_forest.pkl`, `rf_model.pkl`, `scaler.pkl`.
 - `src/` — code: `data_generator.py`, `preprocessing.py`, `models.py`, `train.py`, `app.py` (Streamlit).
-- `notebooks/energy_analysis.ipynb` — exploratory analysis & model walkthrough.
+
 
 
 ## Energy Consumption Monitor — Forecasting + Anomaly Detection (Interactive Dashboard)
